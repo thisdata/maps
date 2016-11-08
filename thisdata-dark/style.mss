@@ -1,5 +1,5 @@
-@water: #232323;
-@land: #636363;
+@water: #2B2B2B;
+@land: #434343;
 @line: #7A7A7A;
 @secondary_line: #727272;
 
