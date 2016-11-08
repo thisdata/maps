@@ -1,6 +1,6 @@
-@water: #2B2B2B;
-@land: #434343;
-@line: #7A7A7A;
+@water: #1D1C2E;
+@land: #2F2B45;
+@line: #3A3855;
 @secondary_line: #727272;
 
 Map {
