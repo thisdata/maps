@@ -1,7 +1,7 @@
-@water: #2B2B2B;
-@land: #434343;
-@line: #7A7A7A;
-@secondary_line: #727272;
+@water: #1D1C2E;
+@land: #2F2B45;
+@line: #3A3855;
+@secondary_line: #6A6885;
 
 Map {
   background-color: @water;
