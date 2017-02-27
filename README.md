@@ -12,6 +12,8 @@ Tile Generator:
 https://github.com/florianf/tileoven - BSD fork of [TileMill](https://github.com/tilemill-project/tilemill
 )
 
+To update the Tiles / generate new ones, you'll need to install TileOven and go through the process there. The files in `thisdata-(light|dark|sidebar)` give you the project settings.
+
 ## Server set up
 
 Yes, this is jank.
